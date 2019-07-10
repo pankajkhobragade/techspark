@@ -14,4 +14,5 @@ Example of passing value whil submitting job:
 To change the settings in your code you can simply do:
 
 sqlContext.setConf("spark.sql.shuffle.partitions", "300")
+
 sqlContext.setConf("spark.default.parallelism", "300")
