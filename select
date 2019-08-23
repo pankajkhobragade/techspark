@@ -1,0 +1,3 @@
+The select can be run on dataframe in mutiple ways in pyspark..
+
+>>> <dataframe>.select(<dataframe>.<columnName>,"<columnName>",<dataframe>['<columnName>']).show()
