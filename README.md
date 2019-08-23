@@ -1,6 +1,6 @@
 # Also read :
-1) <a href="dataframe.md"> How to loop through the dataframe ?</a>
-1) <a href="select"> Different ways to select from dataframe ?</a>
+1) <a href="dataframe.html"> How to loop through the dataframe ?</a>
+1) <a href="select.html"> Different ways to select from dataframe ?</a>
 # TechSpark
 
 <h2> What is the difference between spark.sql.shuffle.partitions and spark.default.parallelism?</h2>
