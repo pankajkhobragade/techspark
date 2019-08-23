@@ -1,8 +1,8 @@
 # Also read :
 1) <a href="dataframe.html"> How to loop through the dataframe ?</a><br>
-
+<h3>
 How to loop through the spark dataframe in pyspark:
-
+</h3>
 for row in <datafarme>.collect():
     print(row.<columnName>)
 
