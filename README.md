@@ -1,5 +1,6 @@
-#Also read :
-1) <a url=./dataframe> how to loop through the dataframe</a>
+# Also read :
+1) 
+<a href="dataframe.html"> how to loop through the dataframe</a>
 # techspark
 
 <h2> What is the difference between spark.sql.shuffle.partitions and spark.default.parallelism?</h2>
